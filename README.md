@@ -14,9 +14,11 @@
 
 ## 📂 Archivos
 
-En el proyecto se encuentra el conjunto de datos, correspondiente a una muestra de 200 pacientes y la presentación del mismo. 
+En el proyecto se encuentra el conjunto de datos, correspondiente a una muestra de 200 pacientes. 
 
 Además, se encuentran distintas notebooks en las que se evalúa la clasificación de los mismo según sus factores demografícos y de salud, pasando por un análisis univariado, bivariado y multivariado del conjunto de datos. 
+
+Por último, se puede encotrar una presentación del mismo en formato ppt.
 
 ## 🙌 Integrantes
 
